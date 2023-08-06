@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Front-end, Back-end**
 
-- 📝 I regularly write articles on [Electrical and Instrumentation plus Power Systems Engineering](Electrical and Instrumentation plus Power Systems Engineering)
+- 📝 I regularly write articles on [Electrical and Instrumentation plus Power Systems Engineering]
 
 - 💬 Ask me about **Electrical schematic diagrams**
 

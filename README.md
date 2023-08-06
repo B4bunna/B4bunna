@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/b4bunna" target="blank"><img src="https://img.shields.io/twitter/follow/b4bunna?logo=twitter&style=for-the-badge" alt="b4bunna" /></a> </p>
 
-- 🌱 I’m currently learning **Front-end, Back-end**
+- 🌱 I’m currently learning **Frontend & Backend Developing**
 
 - 📝 I regularly write articles on [Electrical and Instrumentation plus Power Systems Engineering]
 

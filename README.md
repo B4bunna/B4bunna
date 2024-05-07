@@ -1,6 +1,6 @@
 [![MasterHead](https://www.leicesterwebsitedesign.com/site/assets/files/1071/bespoke_header_2x.jpg)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Bunna</h1>
-<h3 align="center">A passionate software developer from Sudan.</h3>
+<h1 align="center">Hi 👋, I'm ahmaq</h1>
+<h3 align="center">A passionate electrical designer from Sudan.</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/zn8iyusePtgAAAAC/joy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=b4bunna&label=Profile%20views&color=0e75b6&style=flat" alt="b4bunna" /> </p>
